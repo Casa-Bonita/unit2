@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/60vwdpyj474esjeq?svg=true)](https://ci.appveyor.com/project/CasaBonita88767/unit2)
