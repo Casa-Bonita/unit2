@@ -7,18 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class CashbackHackServiceTest {
 
     @Test
-        // проверка, что тест "упадёт"
-    void shouldReturn200IfAmountIs900() {
-
-        CashbackHackService cashbackHackService = new CashbackHackService();
-        int amount = 900;
-
-        int actual = cashbackHackService.remain(amount);
-        int expected = 200;
-        assertEquals(expected, actual);
-    }
-
-    @Test
         // проверка, что тест работает, условие выполняется
     void shouldReturn100IfAmountIs900() {
 
